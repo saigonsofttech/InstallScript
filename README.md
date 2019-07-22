@@ -8,7 +8,7 @@ This script can be safely used in a multi-odoo code base server because the defa
 
 ##### 1. Download the script:
 ```
-sudo wget https://raw.githubusercontent.com/Yenthe666/InstallScript/12.0/odoo_install.sh
+sudo wget https://github.com/saigonsofttech/InstallScript/blob/12.0/odoo_install.sh
 ```
 ##### 2. Modify the parameters as you wish.
 There are a few things you can configure, this is the most used list:<br/>
@@ -27,3 +27,4 @@ sudo chmod +x odoo_install.sh
 ```
 sudo ./odoo_install.sh
 ```
+##### 5. For more information please contact admin@odoosaigon.com or http://odoosaigon.com
